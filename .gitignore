@@ -2,6 +2,8 @@
 *.orig
 *.rej
 *.o
+*.sublime-project
+*.sublime-workspace
 dwm
 patches/
 dwm.pdf
